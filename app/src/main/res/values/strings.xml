@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">2018025</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+Drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="title">
+        <item>Gwehj</item>
+        <item>Apabila</item>
+        <item>Terkadang</item>
+    </string-array>
+    <string-array name="description">
+        <item>Ketika Lu...</item>
+        <item>Ketika Lu...</item>
+        <item>Ketika Lu...</item>
+    </string-array>
+    <string-array name="category">
+        <item>#meme #spiderman #gweh</item>
+        <item>#meme #orang #apabila</item>
+        <item>#meme #orang #terkadang</item>
+    </string-array>
+    <string-array name="category_h">
+        <item>#meme</item>
+        <item>#orang</item>
+        <item>#spiderman</item>
+    </string-array>
+</resources>
